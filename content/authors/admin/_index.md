@@ -4,9 +4,9 @@ role: Associate Professor
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Internet of Things
+  - Embedded Systems
 social:
   - icon: envelope
     icon_pack: fas
