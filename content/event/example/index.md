@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Presentation with Wowchemy
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Wowchemy Indonesian Forum
+event_url: ""
 
-location: Wowchemy HQ
+location: Zoominar
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ""
+  city: Purwokerto
+  region: ""
+  postcode: ""
+  country: Indonesia
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: An introduction of Wowchemy's Markdown slides feature.
+abstract: "One of the best feature of Wowchemy is a web-based presentation using markdown."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -38,7 +38,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/irosyadi
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -57,7 +57,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- []
 ---
 
 {{% callout note %}}
