@@ -29,18 +29,16 @@ experience:
     location: Purwokerto, Indonesia
     date_start: '2004-01-01'
     date_end: ''
-    description: |2-
-        Teaching and researching Machine Learning, Internet of Things, Control System, and Signal Processing
+    description: Teaching and researching Machine Learning, Internet of Things, Control System, and Signal Processing
 	
-  - title: IT and Data Analyst
+  - title: Data Analyst
     company: Kemasku Packaging
     company_url: 'http://kemasku.com/'
     company_logo: logo-kemasku
     location: Purwokerto, Indonesia
     date_start: '2013-01-01'
     date_end: ''
-    description: |2-
-        Information Technology and Data Analysis consultancy
+    description: Information Technology and Data Analysis consultancy
         
   - title: Researcher
     company: Prince Sultan Advanced Tech. Research Institute
@@ -49,8 +47,7 @@ experience:
     location: Riyadh, Saudi Arabia
     date_start: '2007-01-01'
     date_end: '2010-12-31'
-    description: |2- 
-        Researching Statistical Signal Processing for Radar Detection
+    description: Researching Statistical Signal Processing for Radar Detection
 
 design:
   columns: '2'
