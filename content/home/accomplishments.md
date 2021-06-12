@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2020-1-1"
+  date_start: "2020-01-01"
   description: ""
   organization: Dikti
   organization_url: http://www.dikti.go.id/
@@ -41,7 +41,7 @@ item:
   url: http://www.dikti.go.id/microcredential-ai/
 - certificate_url: ""
   date_end: ""
-  date_start: "2020-1-1"
+  date_start: "2020-01-01"
   description: ""
   organization: Amazon
   organization_url: https://aws.amazon.com/training/awsacademy/
@@ -49,7 +49,7 @@ item:
   url: https://www.awsacademy.com/LMS_Login
 - certificate_url: ""
   date_end: ""
-  date_start: "2020-1-1"
+  date_start: "2020-01-01"
   description: ""
   organization: MIT
   organization_url: https://computationalthinking.mit.edu/
@@ -57,7 +57,7 @@ item:
   url: https://computationalthinking.mit.edu/
 - certificate_url: ""
   date_end: ""
-  date_start: ""
+  date_start: "2020-01-01"
   description: ""
   organization: MIT
   organization_url: http://introtodeeplearning.com/
