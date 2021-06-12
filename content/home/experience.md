@@ -30,7 +30,6 @@ experience:
     date_start: '2004-01-01'
     date_end: ''
     description: Teaching and researching Machine Learning, Internet of Things, Control System, and Signal Processing
-	
   - title: Data Analyst
     company: Kemasku Packaging
     company_url: 'http://kemasku.com/'
@@ -39,7 +38,6 @@ experience:
     date_start: '2013-01-01'
     date_end: ''
     description: Information Technology and Data Analysis consultancy
-        
   - title: Researcher
     company: Prince Sultan Advanced Tech. Research Institute
     company_url: 'https://psatri.ksu.edu.sa/en'
