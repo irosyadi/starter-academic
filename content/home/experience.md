@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Associate Professor
+    company: Jenderal Soedirman University
+    company_url: 'https://unsoed.ac.id/'
+    company_logo: logo-unsoed
+    location: Purwokerto, Indonesia
+    date_start: '2004-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Teaching and researching Machine Learning, Internet of Things, Control System, and Signal Processing
+	
+  - title: IT and Data Analyst
+    company: Kemasku Packaging
+    company_url: 'http://kemasku.com/'
+    company_logo: logo-kemasku
+    location: Purwokerto, Indonesia
+    date_start: '2013-01-01'
+    date_end: ''
+    description: |2-
+        Information Technology and Data Analysis consultancy
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Researcher
+    company: Prince Sultan Advanced Tech. Research Institute
+    company_url: 'https://psatri.ksu.edu.sa/en'
+    company_logo: logo-ksu
+    location: Riyadh, Saudi Arabia
+    date_start: '2007-01-01'
+    date_end: '2010-12-31'
+    description: |2- 
+        Researching Statistical Signal Processing for Radar Detection
 
 design:
   columns: '2'

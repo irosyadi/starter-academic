@@ -23,30 +23,46 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: ""
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Machine Learning
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: ""
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: Dikti
+  organization_url: http://www.dikti.go.id/
+  title: Microcredential on Data Science and Artificial Intelligence
+  url: http://www.dikti.go.id/microcredential-ai/
+- certificate_url: ""
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: Amazon
+  organization_url: https://aws.amazon.com/training/awsacademy/
+  title: AWS Academy Data Analytics
+  url: https://www.awsacademy.com/LMS_Login
+- certificate_url: ""
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: MIT
+  organization_url: https://computationalthinking.mit.edu/
+  title: Introduction to Computational Thinking
+  url: https://computationalthinking.mit.edu/
+- certificate_url: ""
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: MIT
+  organization_url: http://introtodeeplearning.com/
+  title: Introduction to Deep Learning
+  url: http://introtodeeplearning.com/
 
 design:
   columns: '2' 
