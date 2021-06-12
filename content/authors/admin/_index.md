@@ -1,12 +1,13 @@
 ---
 title: Imron Rosyadi
 role: Associate Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include machine learning, Internet of Things, signal processing and
+  control systems.
 interests:
   - Machine Learning
   - Internet of Things
-  - Embedded Systems
+  - Signal Processing
+  - Control Systems
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,7 +17,7 @@ social:
     link: https://twitter.com/irosyadi
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=PXnDWH4AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/irosyadi
@@ -42,4 +43,4 @@ highlight_name: false
 Imron Rosyadi is a associate professor of artificial intelligence at the Jenderal Soedirman University. His research interests include machine learning, internet of things, and control systems. He leads [Soedirman Machine Learning](https://soedirman-machine-learning.github.io/) (SMiLe) research group and [Soedirman IoT and Embedded System](https://soedirman-iot.github.io/) (SIoTES) research Group. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_imron_rosyadi.pdf" "newtab" >}}resumé{{< /staticref >}}.
