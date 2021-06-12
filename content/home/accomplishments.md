@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2020-1-1"
+  date_start: "2020-01-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
