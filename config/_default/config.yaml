@@ -5,7 +5,7 @@
 
 title: irosyadi # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Imron Rosyadi' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
